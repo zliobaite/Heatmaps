@@ -13,3 +13,7 @@ What it does:
 1. Synthetic event data is generated into events.csv
 2. Plots are generated as png pictures, one picture for each frame
 3. Movie is generated
+
+Output:
+
+events_movie.mp4
